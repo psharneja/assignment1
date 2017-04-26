@@ -1,0 +1,168 @@
+
+            
+            body {
+                margin: 0;
+                padding: 0;
+                
+            }
+            table {
+                border: none;
+                
+            }
+            body h1 {
+                margin: 13px;
+                font-family: 'Sofia';
+                color: white;
+                float: left;
+                
+                
+            }
+            #topbar {
+                z-index: 9999;
+                position: fixed;
+                top: 0;
+                width: 100%;
+                height: 100px;
+                background-color: #35a5e4;
+                box-shadow: 0 4px 8px -2px gray;
+                
+
+            }
+            #topbar ul {
+                padding: 20px;
+                float: right;
+            }
+            #topbar ul li{
+                padding: 20px;
+                font-variant: small-caps;
+                display: inline;
+            }
+            #topbar ul a {
+                text-decoration: none;
+                color: white;
+                font-size: 18px;
+            }
+            #topbar ul a:hover {
+                color: #43509a;
+                transition: 1s;
+            }
+            #hero-unit {
+                width: 100%;
+                height: 500px;
+                box-shadow: 0 4px 8px -2px gray;
+                
+
+            }
+            #hero-unit p {
+                float: left;
+                text-align: center;
+                color: black;
+                padding: inherit;
+                position: absolute;
+                left: 100px;
+                top:150px;
+                font-family: 'Eagle Lake', cursive;
+                font-size: 33px;
+                width: 50%;
+                z-index: 1;
+
+                
+            }
+            #profile-guy {
+                margin: 100px;
+                float: right;
+                width: 250px;
+                height: 320px;
+            }
+            .container_12 {
+                background-color: #43609a;
+                box-shadow: 12px 0 15px -4px rgba(31, 73, 125, 0.8), -12px 0 8px -4px rgba(31, 73, 125, 0.8);
+                z-index: 0;
+                align-content: center; 
+                color: white;
+                font-family: 'Eagle Lake', cursive;
+                font-size: 20px;
+
+              
+            }
+           
+            .grid_4 img {
+                width: 200px;
+                height: 200px;
+                margin: 20px 0 10px 30px;
+                border-radius: 7px;
+                
+            }
+            #more {
+                width: 100%;
+                color: white;
+                font-family: 'Eagle Lake', cursive;
+                font-size: 30px;
+
+                
+            }
+            #divisor {
+                width: 100%;
+                border-spacing: 0;
+                padding: 0;
+            }
+            #divisor td {
+                background-color: #00bf8e;
+                width: 50%;
+                
+            }
+            #divisor div {
+                width: 100%;
+                
+            }
+            #divisor p {
+                margin: 50px 100px 50px 100px;
+            }
+            #footer {
+                width:100%;
+                height: 200px;
+                background-color: #464646;
+                align-content: center;
+
+            }
+            #footer table {
+                padding-top: 20px; 
+                margin: auto;
+                
+            }
+            #footer a {
+                margin: 20px ;
+            }
+            .fa {
+                color: #e3e3e3;
+            }
+            #footer .instagram:hover {
+                
+                color: #517fa6;
+                bottom:5px;
+                transition: all 0.2s ease-in-out;
+            }
+            #footer .facebook:hover {
+                
+                     color: #3b5998;
+                        bottom:5px;
+                transition: all 0.2s ease-in-out;
+
+            }
+            #footer .twitter:hover {
+                 color: #6cadde;
+                bottom:5px;
+                transition: all 0.2s ease-in-out;
+            }
+            
+            h4 {
+                color: white;
+                font-family: 'Eagle Lake', cursive;
+                margin: auto;
+            }
+            h3 {
+                margin-left: 60px;
+            }
+            
+                
+            
