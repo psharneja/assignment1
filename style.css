@@ -57,7 +57,7 @@
 
 
             }
-            #hero-unit article {
+            #hero-unit p {
                 float: left;
                 text-align: center;
                 color: black;
@@ -85,7 +85,7 @@
                 color: white;
                 font-family: 'Eagle Lake', cursive;
                 font-size: 20px;
-                border-bottom: 1;
+                border-bottom: 1px;
                 
 
               
@@ -102,7 +102,7 @@
                 border-radius: 7px;
                 
             }   
-            .grid_4 article {
+            .grid_4 p {
                 padding: 30px;
                 text-align: center;
                 
