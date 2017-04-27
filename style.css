@@ -19,7 +19,7 @@
                 
                 
             }
-            #topbar {
+            header {
                 z-index: 9999;
                 position: fixed;
                 top: 0;
@@ -31,21 +31,21 @@
                 
 
             }
-            #topbar ul {
+            header ul {
                 padding: 20px;
                 float: right;
             }
-            #topbar ul li{
+            header ul li{
                 padding: 20px;
                 font-variant: small-caps;
                 display: inline;
             }
-            #topbar ul a {
+            header ul a {
                 text-decoration: none;
                 color: white;
                 font-size: 18px;
             }
-            #topbar ul a:hover {
+            header ul a:hover {
                 color: #43509a;
                 transition: 1s;
             }
